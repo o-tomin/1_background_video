@@ -1,0 +1,4 @@
+Code partly or at full taken from:
+https://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projects/tree/main/01.bg-video
+
+Thank you @huxnwebdev for sharing your inspiring skills!
